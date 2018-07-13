@@ -6,7 +6,6 @@ public class combination2 {
 
 	static int target=8;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		List<List<Integer>> list=new ArrayList<>();
 		List<Integer> tempList=new ArrayList<>();
 		int[] a={10, 1, 2, 7, 6, 1, 5};

@@ -1,7 +1,10 @@
 package LeetCode;
 
 
-
+/**
+ * https://leetcode.com/problems/palindromic-substrings/discuss/105739/Java-O(n2)-time-O(1)-space-solution-with-comments.
+ * n^2
+ */
 public class longestPalindromeString {
 	public static void main(String[] args) {
 		

@@ -24,7 +24,7 @@ public class sort012 {
 				r--;
 			}
 			else if(a[l]==a[r]&&a[l]>m){
-				j++;
+				l++;
 			}
 		}
 		return a;

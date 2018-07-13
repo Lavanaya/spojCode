@@ -2,7 +2,6 @@ import java.util.*;
 public class LongestIncreasing {
 
 	public static void main(String[] args) throws Exception{
-		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		int a[]=new int[n];

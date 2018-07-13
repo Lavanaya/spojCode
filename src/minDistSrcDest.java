@@ -13,8 +13,7 @@ int xc=3,yc=4;
 	static int[][] m={{3,1,0,3},{3,2,3,0},{0,3,3,0}};
 	static int row=3,col=5;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+
 		Bit bit=new Bit(0,1);
 		queue.add(bit);
 		bfs();
