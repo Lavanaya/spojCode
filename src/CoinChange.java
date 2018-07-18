@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 public class CoinChange {
 
-    HashMap
+    //HashMap
     static  int count=0;
     public static void count(int sum,int[] a,int st){
         if(sum==0){
